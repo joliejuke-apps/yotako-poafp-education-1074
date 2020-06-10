@@ -1,0 +1,101 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #f9f9f9
+}
+.style1 {
+  background-color: #fbfbfb;
+  display: flex;
+  margin-left: 0;
+  margin-top: 14.705882352941178vh;
+  width: 100vw;
+  height: 5.856515373352855vw
+}
+.maincontainer0col0 {
+  display: flex;
+  margin-left: 7.174231332357247vw;
+  margin-top: .9516837481698389vw;
+  width: 85.65153733528551vw;
+  height: 4.978038067349927vw;
+  flex-direction: column
+}
+.maincontainer0col0row0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 74.81698389458272vw;
+  height: 3.513909224011713vw
+}
+.style4 {
+  color: #303030;
+  font-family: Roboto,serif;
+  font-size: 2.6354319180087846vw;
+  font-weight: 900;
+  margin-left: 0;
+  margin-top: 0
+}
+.style7 {
+  display: flex;
+  margin-left: 42.89897510980966vw;
+  margin-top: 1.3177159590043923vw;
+  flex-direction: column
+}
+.style7,
+.style8 {
+  width: 1.2721987454817898vw;
+  height: 1.3177159590043923vw
+}
+.style3 {
+  color: #ff8e0a;
+  font-family: Roboto,serif;
+  font-size: .8784773060029283vw;
+  margin-left: 5.09676172303944vw;
+  margin-top: .8052708638360175vw
+}
+.style5,
+.style9 {
+  position: relative;
+  display: flex
+}
+.style9 {
+  background-color: #ff8e0a;
+  width: 1.4641288433382138vw;
+  height: 1.4641288433382138vw;
+  flex-direction: column;
+  border-radius: 50%;
+  margin-left: 4.026354319180088vw;
+  margin-top: .8784773060029283vw
+}
+.style5 {
+  margin-left: -1.4641288433382138vw;
+  margin-top: .1488027949633396vw;
+  flex-shrink: 0
+}
+.style5,
+.style6 {
+  width: 2.1961932650073206vw;
+  height: 1.8558524538098806vw
+}
+.style10 {
+  color: #fff;
+  font-family: Roboto,serif;
+  font-size: .7320644216691069vw;
+  margin-left: .29282576866764276vw;
+  margin-top: .29282576866764276vw;
+  flex-shrink: 0
+}
+.style2 {
+  background-color: #fbfbfb;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-left: 0;
+  margin-top: 1.390922401171303vw;
+  width: 85.65153733528551vw;
+  height: .07320644216691069vw
+}
+.breakpoint-0 {
+  display: block
+}
